@@ -18,6 +18,10 @@ body{
     width: 50%;
     margin: 0 40px;
 }
+.two-third-width{
+    width: 66.66%;
+    margin: 0 20px;
+}
 .one-third-width{
     width: 33.33%;
     margin: 0 10px;
@@ -28,10 +32,7 @@ body{
 .half-width img{
     width: 100%;
 }
-.two-third-width{
-    width: 66.66%;
-    margin: 0 20px;
-}
+
 .one-third-width img{
     width: 100%;
 }
@@ -92,8 +93,23 @@ p{
 .goals{
     background-color: #fde2e4;
 }
+/* fiveth section */
+.fiveth-section h1, .fiveth-section h2 {
+    text-align: center;
+}
+.website-section div{
+    background-color: white;
+    padding: 0;
+    box-shadow: 4px 4px 12px rgb(207, 207, 207);
+    border-top: 6px solid #FF6F59;
+    overflow: hidden;
+}
+.website-section img{
+    margin-bottom: -5px;
+}
 /* footer section */
 .footer-section{
+    margin-top: 150px;
     color: white;
     background-color: #01161e;
     padding: 10px 50px;

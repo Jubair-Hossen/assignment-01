@@ -63,6 +63,19 @@ p{
 }
 
 /* first section */
+.line-parent-div{
+    display: flex;
+    align-items: center;
+}
+
+.line{
+    width: 6px;
+    height: 105px;
+    border-radius: 4px;
+    background-color: #FF6F59;
+    margin-right: 20px;
+    margin-bottom: 25px;
+}
 
 .orange-color{
     color: #f7b267;

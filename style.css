@@ -92,5 +92,10 @@ p{
 .goals{
     background-color: #fde2e4;
 }
-
-
+/* footer section */
+.footer-section{
+    color: white;
+    background-color: #01161e;
+    padding: 10px 50px;
+    text-align: center;
+}

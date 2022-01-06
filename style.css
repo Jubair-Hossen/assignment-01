@@ -11,23 +11,41 @@ body{
 .flexable-container{
     display: flex;
     align-items: center;
-    margin: 10px 120px;
+    margin: 50px 120px;
 }
 
 .half-width{
     width: 50%;
+    margin: 0 40px;
+}
+.one-third-width{
+    width: 33.33%;
+    margin: 0 10px;
+    padding: 30px 20px;
+    border-radius: 15px;
+}
+.two-third-width{
+    width: 66.66%;
     margin: 0 20px;
 }
 .half-width img{
     width: 100%;
 }
+.one-third-width img{
+    width: 50%;
+}
+
 h1{
     font-size: 50px;
     font-weight: 600;
     margin-bottom: 25px;
 }
+h2{
+    font-size: 30px;
+    margin: 25px 0;
+}
 p{
-    font-size: 20px;
+    font-size: 18px;
     margin-bottom: 20px;
 }
 .button{
@@ -45,13 +63,30 @@ p{
 /* first section */
 
 .orange-color{
-    color: #e09407;
+    color: #f7b267;
 }
 #explore-botton{
     margin-bottom: 20px;
 }
 #more-about{
     margin-top: 35px;
+}
+
+/* second-section */
+.second-section{
+    margin-top: 70px;
+}
+.second-section h1{
+    text-align: center;
+}
+.mission{
+    background-color: #f0efeb;
+}
+.vission{
+    background-color: #d6e2e9;
+}
+.goals{
+    background-color: #fde2e4;
 }
 
 

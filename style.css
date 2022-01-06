@@ -93,10 +93,7 @@ p{
 .goals{
     background-color: #fde2e4;
 }
-/* fiveth section */
-.fiveth-section h1, .fiveth-section h2 {
-    text-align: center;
-}
+
 .website-section div{
     background-color: white;
     padding: 0;
@@ -106,6 +103,9 @@ p{
 }
 .website-section img{
     margin-bottom: -5px;
+}
+.fiveth-section{
+    text-align: center;
 }
 /* footer section */
 .footer-section{

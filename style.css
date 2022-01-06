@@ -24,15 +24,16 @@ body{
     padding: 30px 20px;
     border-radius: 15px;
 }
+
+.half-width img{
+    width: 100%;
+}
 .two-third-width{
     width: 66.66%;
     margin: 0 20px;
 }
-.half-width img{
-    width: 100%;
-}
 .one-third-width img{
-    width: 50%;
+    width: 100%;
 }
 
 h1{
@@ -75,6 +76,9 @@ p{
 /* second-section */
 .second-section{
     margin-top: 70px;
+}
+.second-section img{
+    width: 50%;
 }
 .second-section h1{
     text-align: center;
